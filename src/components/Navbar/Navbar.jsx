@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="wrapper">
           <div className="left">
             <div className="item">
-                <img src='/MTR.Store/images/n.png'/>
+                <img src='/MTR.Store/images/c.png'/>
                   EN
                 <KeyboardArrowDownIcon/>
             </div>
